@@ -6,7 +6,7 @@ require 'paperclip/upyun/version'
 Gem::Specification.new do |spec|
   spec.name          = "paperclip-upyun"
   spec.version       = Paperclip::Upyun::VERSION
-  spec.authors       = ["Edison-Hsu"]
+  spec.author       = "Edison-Hsu"
   spec.email         = ["edison.hsu.sh@gmail.com"]
   spec.summary       = "UPYUN API SDK for Paperclip Storage Plugin"
   spec.description   = <<-EOF
